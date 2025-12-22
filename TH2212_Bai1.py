@@ -1,7 +1,5 @@
 while True:
  w = float(input(" Nhập chiều rộng w= "))
- if 0.0<=w<=100.0:
-   break
  if (w<=0.0) and (w<=100.0) :
      break
  else:   
